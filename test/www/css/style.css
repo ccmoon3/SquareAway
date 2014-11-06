@@ -1,0 +1,23 @@
+.main_page{
+  //  margin-top: 80px;
+    margin-left: 80px;
+    text-shadow: 1px 1px 20px #000000;
+}
+.main-background{
+    background-color:rgb(8,62,49);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.main-color{
+   color:#ecdf93;
+}
+.item-title{
+   color:#ecdf93;
+   background-color: rgb(27,109,89);
+   border-color:#ecdf93;
+}
+.item-content{
+   background-color: rgb(5,43,34);
+}
